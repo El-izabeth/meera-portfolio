@@ -1,23 +1,25 @@
-const logotext = "JOHN";
+const logotext = "Elizabeth";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Elizabeth Jees",
+    description: "I’m Elizabeth a third year undergraduate pursuing CS currently studying in NIT Trichy, Tamilnadu, India",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "Hello",
+        second: "My name is Elizabeth",
+        third: "<3",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "I am a third year undergraduate pursuing CS. I am an avid problem solver and love coding. As a creative thinker, my pursuits extend beyond technology, to writing articles and telling stories.",
+    your_img_url: "https://wallpaperboat.com/wp-content/uploads/2019/10/cool-website-background-03.jpg",
+    personal_pic: "./linkedinPic.jpeg"
+
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "about me",
+    aboutme: "I am a third year undergraduate pursuing CS. I am an avid problem solver and love coding. As a creative thinker, my pursuits extend beyond technology, to writing articles and telling stories.",
 };
 const worktimeline = [{
         jobtitle: "Designer of week",

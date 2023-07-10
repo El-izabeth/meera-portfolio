@@ -49,6 +49,28 @@ section {
     width: 50%;
 }
 
+
+.container {
+    border: 3px solid #fff;
+    height: 100;
+    position: relative;
+    
+  }
+  
+  .box {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 10;
+    left: 0;
+    
+  }
+  
+  .overlay {
+    z-index: 9;
+    
+    
+  }
 @media (max-width:991.98px) {
     .intro_sec .text,
     .intro_sec .h_bg-image {
