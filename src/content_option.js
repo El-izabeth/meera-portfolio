@@ -8,8 +8,8 @@ const introdata = {
     
     animated: {
         first: "Hello",
-        second: "My name is Elizabeth",
-        third: "<3",
+        second: "I'm Elizabeth",
+        third: "Welcome to my portfolio!",
     },
     description: "I am a third year undergraduate pursuing CS. I am an avid problem solver and love coding. As a creative thinker, my pursuits extend beyond technology, to writing articles and telling stories.",
     your_img_url: "https://wallpaperboat.com/wp-content/uploads/2019/10/cool-website-background-03.jpg",
@@ -22,20 +22,25 @@ const dataabout = {
     aboutme: "I am a third year undergraduate pursuing CS. I am an avid problem solver and love coding. As a creative thinker, my pursuits extend beyond technology, to writing articles and telling stories.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Student",
+        where: "Ursula Frayne Catholic College, Perth, WA",
+        date: "pre-primary to year 6",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Student",
+        where: "Sishya OMR",
+        date: "grades 7-10",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Student",
+        where: "Chettinad Vidyashram",
+        date: "grades 11-12",
     },
+    {
+        jobtitle: "CS Undergraduate",
+        where: "National Institute of Technology Tiruchirapalli",
+        date: "2021-"
+    }
 ];
 
 const skills = [{
