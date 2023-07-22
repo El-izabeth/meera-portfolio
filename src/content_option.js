@@ -80,66 +80,30 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://www.xiphiastec.com/images/training/placement.jpg",
+        description: "A Placement Portal for your college",
+        link: "https://github.com/El-izabeth/placementPortal-backend",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://www.kapwing.com/resources/content/images/2019/07/How-to-Start-a-Blog.jpg",
+        description: "A website to publish your blogs and read those written by your friends.",
+        link: "https://github.com/El-izabeth/BlogWebsite",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://media.istockphoto.com/vectors/hospital-with-ambulance-flat-vector-illustration-vector-id924813992?k=6&m=924813992&s=612x612&w=0&h=w6fKWVSKrzYZjQen12m62pLZZtHdrIXv2sus3PvLDmo=",
+        description: "A project that stores patient records of hospitals in a splay tree, so current patients' details can be retreived immediatly, and discharged/deceased patiens' records are stored further from the root.",
+        link: "https://github.com/KavimalarSubbiah/Hospital_Management_System-ADSA-Project-",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://uccomm2004.files.wordpress.com/2015/11/faithreason.jpg",
+        description: "An article written for the Pragyan Blog about the relavance of faith in today's world.",
+        link: "https://medium.com/pragyan-blog/the-future-of-faith-36fc0dbe2d0a",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+        img: "https://filmforum.org/do-not-enter-or-modify-or-erase/client-uploads/seventh-seal-slide.jpg",
+        description: "An article published for Feeds NITT, NIT-Trichy's official magazine",
+        link: "https://drive.google.com/file/d/1X1mLdyRsTGicx0A1NuAO3K6CwBXaGvj0/view?usp=drive_link",
+    }
 ];
 
 const contactConfig = {
