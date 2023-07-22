@@ -58,9 +58,9 @@ export const Home = () => {
                       <div className="ring three"></div>
                     </div>
                   </Link>
-                  <Link to="/contact">
+                  <Link to="/portfolio">
                     <div id="button_h" className="ac_btn btn">
-                      Contact Me
+                      My Projects
                       <div className="ring one"></div>
                       <div className="ring two"></div>
                       <div className="ring three"></div>
