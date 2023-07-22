@@ -2,6 +2,7 @@ import React from "react";
 import "./style.css";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import { Container, Row, Col } from "react-bootstrap";
+import Typewriter from "typewriter-effect";
 import { dataportfolio_tech, dataportfolio_writing, meta } from "../../content_option";
 
 export const Portfolio = () => {
@@ -19,6 +20,19 @@ export const Portfolio = () => {
             <hr className="t_border my-4 ml-0 text-left" />
           </Col>
         </Row>
+        <h1 className="fluidz-48 mb-1x">
+                  <Typewriter
+                    options={{
+                      strings: [
+                        "Technical",
+                        "projects",
+                      ],
+                      autoStart: true,
+                      loop: true,
+                      deleteSpeed: 10,
+                    }}
+                  />
+        </h1>
         <div className="mb-5 po_items_ho">
           {dataportfolio_tech.map((data, i) => {
             return (
@@ -32,6 +46,19 @@ export const Portfolio = () => {
             );
           })}
         </div>
+        <h1 className="fluidz-48 mb-1x">
+                  <Typewriter
+                    options={{
+                      strings: [
+                        "Creative",
+                        "projects",
+                      ],
+                      autoStart: true,
+                      loop: true,
+                      deleteSpeed: 10,
+                    }}
+                  />
+        </h1>
         <div className="mb-5 po_items_ho">
           {dataportfolio_writing.map((data, i) => {
             return (
