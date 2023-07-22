@@ -102,7 +102,7 @@ const dataportfolio = [{
     {
         img: "https://filmforum.org/do-not-enter-or-modify-or-erase/client-uploads/seventh-seal-slide.jpg",
         description: "An article published for Feeds NITT, NIT-Trichy's official magazine",
-        link: "https://drive.google.com/file/d/1X1mLdyRsTGicx0A1NuAO3K6CwBXaGvj0/view?usp=drive_link",
+        link: "https://drive.google.com/file/d/1z9Ko-4AJhC8q4sSa2OYBLLG2zFrB9Y3l/view?usp=sharing",
     }
 ];
 
