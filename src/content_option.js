@@ -79,7 +79,7 @@ const services = [{
     },
 ];
 
-const dataportfolio = [{
+const dataportfolio_tech = [{
         img: "https://www.xiphiastec.com/images/training/placement.jpg",
         description: "A Placement Portal for your college",
         link: "https://github.com/El-izabeth/placementPortal-backend",
@@ -93,7 +93,10 @@ const dataportfolio = [{
         img: "https://media.istockphoto.com/vectors/hospital-with-ambulance-flat-vector-illustration-vector-id924813992?k=6&m=924813992&s=612x612&w=0&h=w6fKWVSKrzYZjQen12m62pLZZtHdrIXv2sus3PvLDmo=",
         description: "A project that stores patient records of hospitals in a splay tree, so current patients' details can be retreived immediatly, and discharged/deceased patiens' records are stored further from the root.",
         link: "https://github.com/KavimalarSubbiah/Hospital_Management_System-ADSA-Project-",
-    },
+    }
+];
+
+const dataportfolio_writing = [
     {
         img: "https://uccomm2004.files.wordpress.com/2015/11/faithreason.jpg",
         description: "An article written for the Pragyan Blog about the relavance of faith in today's world.",
@@ -104,8 +107,7 @@ const dataportfolio = [{
         description: "An article published for Feeds NITT, NIT-Trichy's official magazine",
         link: "https://drive.google.com/file/d/1z9Ko-4AJhC8q4sSa2OYBLLG2zFrB9Y3l/view?usp=sharing",
     }
-];
-
+]
 const contactConfig = {
     YOUR_EMAIL: "name@domain.com",
     YOUR_FONE: "(555)123-4567",
@@ -126,7 +128,8 @@ const socialprofils = {
 export {
     meta,
     dataabout,
-    dataportfolio,
+    dataportfolio_tech,
+    dataportfolio_writing,
     worktimeline,
     skills,
     services,
