@@ -98,7 +98,7 @@ const dataportfolio_tech = [{
 
 const dataportfolio_writing = [
     {
-        img: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Der_ungl%C3%A4ubige_Thomas_-_Michelangelo_Merisi%2C_named_Caravaggio.jpg",
+        img: "https://1.bp.blogspot.com/-KEnVcIp8yX4/TbPt4Esw91I/AAAAAAAAFG4/ZiRMIkiA9Jk/s1600/Rembrandt_Doubting_Thomas.jpg",
         description: "An article written for the Pragyan Blog about the relavance of faith in today's world.",
         link: "https://medium.com/pragyan-blog/the-future-of-faith-36fc0dbe2d0a",
     },
