@@ -80,7 +80,7 @@ const services = [{
 ];
 
 const dataportfolio_tech = [{
-        img: "https://www.xiphiastec.com/images/training/placement.jpg",
+        img: "https://arcite.in/placement/img/employer.png",
         description: "A Placement Portal for your college",
         link: "https://github.com/El-izabeth/placementPortal-backend",
     },
