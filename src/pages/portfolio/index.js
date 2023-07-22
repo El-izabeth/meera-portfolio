@@ -3,6 +3,7 @@ import "./style.css";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import { Container, Row, Col } from "react-bootstrap";
 import Typewriter from "typewriter-effect";
+
 import { dataportfolio_tech, dataportfolio_writing, meta } from "../../content_option";
 
 export const Portfolio = () => {
@@ -25,7 +26,6 @@ export const Portfolio = () => {
                     options={{
                       strings: [
                         "Technical",
-                        "projects",
                       ],
                       autoStart: true,
                       loop: true,
@@ -51,7 +51,6 @@ export const Portfolio = () => {
                     options={{
                       strings: [
                         "Creative",
-                        "projects",
                       ],
                       autoStart: true,
                       loop: true,
