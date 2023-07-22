@@ -11,7 +11,7 @@ const introdata = {
         second: "I'm Elizabeth",
         third: "Welcome to my portfolio!",
     },
-    description: "I am a third year undergraduate pursuing CS. I am an avid problem solver and love coding. As a creative thinker, my pursuits extend beyond technology, to writing articles and telling stories.",
+    description: "I am a third year undergraduate pursuing CS. I am an avid problem solver and I love coding. As a creative thinker, my pursuits extend beyond technology, to writing articles and telling stories.",
     your_img_url: "https://wallpaperboat.com/wp-content/uploads/2019/10/cool-website-background-03.jpg",
     personal_pic: "./linkedinPic.jpeg"
 
@@ -85,32 +85,32 @@ const dataportfolio_tech = [{
         link: "https://github.com/El-izabeth/placementPortal-backend",
     },
     {
-        img: "https://www.kapwing.com/resources/content/images/2019/07/How-to-Start-a-Blog.jpg",
+        img: "https://nationalcentreforwriting.org.uk/wp-content/uploads/2018/04/more-hand-picked-writing-opportunities-for-the-new-year-hero.jpg",
         description: "A website to publish your blogs and read those written by your friends.",
         link: "https://github.com/El-izabeth/BlogWebsite",
     },
     {
         img: "https://media.istockphoto.com/vectors/hospital-with-ambulance-flat-vector-illustration-vector-id924813992?k=6&m=924813992&s=612x612&w=0&h=w6fKWVSKrzYZjQen12m62pLZZtHdrIXv2sus3PvLDmo=",
-        description: "A project that stores patient records of hospitals in a splay tree, so current patients' details can be retreived immediatly, and discharged/deceased patiens' records are stored further from the root.",
+        description: "A project that stores patient records of hospitals in a splay tree data structure. A study on its comparative aptness juxtaposed with other tree data structures.",
         link: "https://github.com/KavimalarSubbiah/Hospital_Management_System-ADSA-Project-",
     }
 ];
 
 const dataportfolio_writing = [
     {
-        img: "https://uccomm2004.files.wordpress.com/2015/11/faithreason.jpg",
+        img: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Der_ungl%C3%A4ubige_Thomas_-_Michelangelo_Merisi%2C_named_Caravaggio.jpg",
         description: "An article written for the Pragyan Blog about the relavance of faith in today's world.",
         link: "https://medium.com/pragyan-blog/the-future-of-faith-36fc0dbe2d0a",
     },
     {
-        img: "https://filmforum.org/do-not-enter-or-modify-or-erase/client-uploads/seventh-seal-slide.jpg",
+        img: "https://2.bp.blogspot.com/-m0t8aSemwkI/T83lKSdeBhI/AAAAAAAAB8c/AxP7IKUKSX0/s1600/The+Seventh+Seal+-The+Knight+Antonius+Block.png",
         description: "An article published for Feeds NITT, NIT-Trichy's official magazine",
         link: "https://drive.google.com/file/d/1z9Ko-4AJhC8q4sSa2OYBLLG2zFrB9Y3l/view?usp=sharing",
     }
 ]
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "meerajees@gmail.com",
+    YOUR_FONE: "+91 84388 82658",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
@@ -120,9 +120,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
+    github: "https://github.com/El-izabeth",
     facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    linkedin: "www.linkedin.com/in/elizabeth-jees-tharayil-262662228",
     twitter: "https://twitter.com",
 };
 export {
